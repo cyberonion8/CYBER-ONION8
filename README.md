@@ -7,10 +7,10 @@ AUTHOR- MD ONI
 <h3> sudo apt install git python3 python3-pip php openssh-client -y</h3><br>
 <h3>sudo pacman -S git python3 python-pip php openssh --noconfirm</h3><br>
 <h3>sudo dnf install git python3 php openssh -y</h3><br> 
-<h5><p>sudo apt update<br>
+<h5>sudo apt update<br>
  apt install curl<br>
  apt install openss<br>
  sudo apt install git python3 python3-pip php openssh-client -y<br>
  git clone https://github.com/SACHINSIROHI47/PyPhisher.git
  
-</p></h5>
+</h5>
