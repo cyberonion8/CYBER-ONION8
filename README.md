@@ -15,13 +15,13 @@ AUTHOR- MD ONI
 <h3> Enter the directory</h3><br>
 <h3> cd PyPhisher</h3><br> 
 <h3>Install all modules</h3><br>
-<h3>Install all modules</h3><br>
-<i><h3>#--Or try below command if above not working---#</h3></i><br>
-<h3>pip3 install -r files/requirements.txt --break-system-packages</h3><br>
-<h3>Run the tool</h3> <br>
-<h3>python3 pyphisher.py</h3>
+<b>Install all modules</b><br>
+<i><b>#--Or try below command if above not working---#</b></i><br>
+<b>pip3 install -r files/requirements.txt --break-system-packages</b><br>
+<b>Run the tool</b> <br>
+<b>python3 pyphisher.py</b>
 
-<i><b> subscribe my youtube channel  cyber onion </b></i>
+<i><h1> subscribe my youtube channel  cyber onion </h1></i>
 
 
  
