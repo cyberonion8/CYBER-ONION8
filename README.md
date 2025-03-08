@@ -12,5 +12,14 @@ AUTHOR- MD ONI
  apt install openss<br>
  sudo apt install git python3 python3-pip php openssh-client -y<br></h3>
 <h3> git clone<u> https://github.com/SACHINSIROHI47/PyPhisher.git</h3></u> 
+<h3> Enter the directory</h3><br>
+<h3> cd PyPhisher</h3><br> 
+<h3>Install all modules</h3><br>
+<h3>Install all modules</h3><br>
+<i><h3>#--Or try below command if above not working---#</h3></i><br>
+<h3>pip3 install -r files/requirements.txt --break-system-packages</h3><br>
+<h3>Run the tool</h3> <br>
+<h3>python3 pyphisher.py</h3>
+
  
 
